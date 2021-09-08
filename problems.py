@@ -37,7 +37,7 @@ Would print
 Scooby Doo was born on September 13 in 1969
 ScooD13
 yooDnine
-Lucky
+Unlucky
 
 Don't worry, the users will only give months consisting of integers that correspond to months that actually exist.
 """
