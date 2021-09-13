@@ -40,4 +40,49 @@ yooDnine
 Unlucky
 
 Don't worry, the users will only give months consisting of integers that correspond to months that actually exist.
+
+Additionally, it will be tested with the following inputs and outputs:
+Bugs
+Bunny
+1940
+7
+27
+
+Bugs Bunny was born on July 27 in 1940
+BugsB27
+synnuBzero
+Lucky
+
+Daffy
+Duck
+1937
+4
+17
+
+Daffy Duck was born on April 17 in 1937
+DaffD17
+ykcuDseven
+Lucky
+
+Homer
+Simpson
+1955
+5
+10
+
+Homer Simpson was born on May 10 in 1955
+HomeS10
+rnospmiSfive
+Lucky
+
+Mickey
+Mouse
+1928
+11
+18
+
+Mickey Mouse was born on November 18 in 1928
+MickM18
+yesuoMeight
+Lucky
 """
