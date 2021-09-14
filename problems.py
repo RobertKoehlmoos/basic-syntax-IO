@@ -10,8 +10,8 @@ Write a program that prompts a user five times for the following information in 
 And print that information out in the following format:
 <First Name> <Last Name> was born on <Month> <Day> in <Year>
 
-Then print out their user id, consisting of the first four letters of their last name,
-the first letter of their first name, and the day of the month they were born:
+Then print out their user id, consisting of the first four letters of their first name,
+the first letter of their last name, and the day of the month they were born:
 <first four of last name><first letter of first name><Day Born>
 (Corporate believes there are no possible issues with this system)
 
@@ -22,6 +22,9 @@ their last name backwards, the last digit of the year they were born spelled out
 
 Finally, print 'Unlucky' if the user was born on the 13th, otherwise print 'Lucky'
 (Don't even ask)
+
+As a note: To pass testing you will probably need to use the method .strip() on each
+of your inputs, as the testing setup adds a carriage return to the end of each input.
 
 But, the user will provide month as a number from 1 to 12 (inclusive), you need to convert it
 into the word representing the month.
